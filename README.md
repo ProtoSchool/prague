@@ -6,7 +6,7 @@ We are a group of people passionate about the decentralized web and excited to l
 
 You can find all our events in meetup group [Decentralized Web Prague](https://www.meetup.com/dweb-prague/), where you should also RSVP if you plan to come. Some of the events might be limited on size (especially workshops) so RSVP is important!
 
-If you are interested in something specific, or you would like to share something with us, don't hesitate and create issue and/or shoot us email to [dweb@uhlir.dev](dweb@uhlir.dev).
+If you are interested in something specific, or you would like to share something with us, don't hesitate and create issue and/or shoot us email to [dweb@uhlir.dev](mailto:dweb@uhlir.dev).
 
 ## Organizers
 
