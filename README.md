@@ -1,6 +1,6 @@
-# ProtoSchool Prague
+# ProtoSchool Prague 🇨🇿
 
-Welcome to the Prague chapter of [ProtoSchool](https://proto.school)!
+👋 Welcome to the Prague chapter of [ProtoSchool](https://proto.school)!
 
 We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!
 
