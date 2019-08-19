@@ -8,6 +8,13 @@ You can find all our events in meetup group [Decentralized Web Prague](https://w
 
 If you are interested in something specific, or you would like to share something with us, don't hesitate and create issue and/or shoot us email to [dweb@uhlir.dev](mailto:dweb@uhlir.dev).
 
+## Events
+
+ - 25th Sep - [IPFS#1: Intro to IPFS - the future of (distributed) web](https://www.meetup.com/dweb-prague/events/263670580/)
+ - 23th Oct - [IPFS#2: Files in IPFS and hands-on workshop](https://www.meetup.com/dweb-prague/events/263909416/) (RSVP needed)
+ - 13th Nov - [IPFS#3: Developing apps with IPFS](https://www.meetup.com/dweb-prague/events/263923023/) (RSVP needed)
+
+
 ## Organizers
 
 Our chapter is currently led by:
